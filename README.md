@@ -2,7 +2,8 @@
 - 👀 I’m interested in data analytics and software engineering
 - 🌱 I’m currently learning software engineering at alx, and also data analytics
 - 💞️ I’m looking to collaborate on data projects and software engineering projects
-- YOU CAN CHECK OUT MY PORTFOLIO HERE datacamp.com/portfolio/gracehally7
+- YOU CAN CHECK OUT MY PORTFOLIO HERE
+- https://www.datacamp.com/portfolio/gracehally7
 - 📫 How to reach me via my github link or on whatsapp @08135468863
 
 <!---
